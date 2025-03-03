@@ -11,7 +11,7 @@
 ## 🚀 Methodology  
 
 1. **Dataset**:
-   - Used the [Real Life Violence Situations Dataset]([url](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)) from Kaggle.
+   - Used the [Real Life Violence Situations Dataset]([https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset](url)) from Kaggle.
    - Collected **1000 videos** each of **violence** and **non-violence** categories.  
 3. **Model Training**:  
    - Used **MobileNetV2** for training.  
